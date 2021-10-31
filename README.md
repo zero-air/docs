@@ -26,7 +26,7 @@ Yeah yeah, I know, it is not what we breath - but such a cool name, isn't it?
 
 # Approach
 
-Ok, you are warned - the approach below is an outrageous overkill. After reviewing some other projects in this space - I have identified my primarily inspiration: [YouTube: Your home's air could be making you sick. Fight back!](https://www.youtube.com/watch?v=Cmr5VNALRAg). As you can see from that video, building an air quality monitor can be much cheaper, simpler and faster than what I am going to do here. Some additional inspirational videos:
+Ok, you are warned - the approach below is an outrageous overkill. After reviewing some other projects in this space - I have identified my primary inspiration: [YouTube: Your home's air could be making you sick. Fight back!](https://www.youtube.com/watch?v=Cmr5VNALRAg). As you can see from that video, building an air quality monitor can be much cheaper, simpler and faster than what I am going to do here. Some additional inspirational videos:
 
 - [DIY Air Quality Monitor - PM2.5, CO2, VOC, Ozone, Temp & Hum Arduino Meter](https://www.youtube.com/watch?v=esY_OtDLv7g&t=9s)
 - [Raspberry pi based indoor air quality environmental monitor](https://www.youtube.com/watch?v=nV4-rTF3aOk)
